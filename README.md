@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/inderrajoriya" target="blank"><img src="https://img.shields.io/twitter/follow/inderrajoriya?logo=twitter&style=for-the-badge" alt="inderrajoriya" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React , MERN Stack**
 
